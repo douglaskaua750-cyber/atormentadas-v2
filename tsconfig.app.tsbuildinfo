@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/background.ts","./src/main.tsx","./src/token-config.tsx","./src/components/trackcard.tsx","./src/lib/defaults.ts","./src/lib/helpers.ts","./src/lib/keys.ts","./src/lib/metadata.ts","./src/lib/playback.ts","./src/lib/time.ts","./src/lib/types.ts","./src/lib/url.ts"],"version":"5.9.3"}
